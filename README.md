@@ -42,7 +42,7 @@ Este projeto foi criado com o objetivo de praticar conceitos fundamentais de:
 
 ## ✨ Demonstração
 
-![Imagem do jogo Número Secreto](./telaNumeroSecreto.png)
+![Imagem do jogo Número Secreto](.img/telaNumeroSecreto.png)
 
 ## 📢 Contribuições
 
