@@ -1,8 +1,3 @@
-Claro! Vamos caprichar! 🎯  
-Aqui está um novo modelo de **README.md** para o seu projeto **"Número Secreto"**:
-
----
-
 # Número Secreto 🎯
 
 Bem-vindo ao projeto **Número Secreto**, um jogo de adivinhação simples e divertido criado usando **HTML**, **CSS** e **JavaScript**!  
