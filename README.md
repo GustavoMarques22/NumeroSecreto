@@ -42,7 +42,7 @@ Este projeto foi criado com o objetivo de praticar conceitos fundamentais de:
 
 ## ✨ Demonstração
 
-*(Aqui você pode colocar um print ou GIF mostrando o jogo funcionando — se quiser depois posso te ensinar como fazer isso!)*
+![Imagem do jogo Número Secreto](./telaNumeroSecreto.png)
 
 ## 📢 Contribuições
 
